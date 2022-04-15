@@ -1,5 +1,3 @@
-// Your code here
-
 
 // Function to create a promise
 function createPromise() {
